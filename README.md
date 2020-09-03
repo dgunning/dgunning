@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## About Me
-I am a data scientist and Python Data Engineer
-I work at FINRA - Computerworld's No. 1 midsize company on its 2020 Best Places to Work
-I do a lot of pandas. A lot
+* I am a data scientist and Python Data Engineer
+* I work at FINRA - Computerworld's No. 1 midsize company on its 2020 Best Places to Work
+* I do a lot of pandas. A lot
 
 ## What I'm up to
 

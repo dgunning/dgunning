@@ -1,12 +1,14 @@
 ### Hi there 👋
 
 ## About Me
-* I am a python data and AI Engineer
-* I work at FINRA - Computerworld's No. 1 midsize company on its 2020 Best Places to Work
-* I am the maintainer of edgartools - easiest most powerful way to navigate SEC filings
+* I am curious about the intersection of finance, data and AI
+* I am a skilled Python developer with over 20 years of experience in Financial and Capital Market applications
+* I am working on boosting those skills 10x using programming AI tools ... generally I like Claude Sonnet
+* I tackle really hard programming problems using the boosted skills - edgartools renders HTML inside a terminal
+* Oh  .. I am the maintainer of [edgartools](https://github.com/dgunning/edgartools) - easiest most powerful way to navigate SEC filings
 
 ## What I'm up to
-I'm building the next phase of edgartools - integration into business knowledge workflows
+I'm building the next phase of [edgartools](https://github.com/dgunning/edgartools) - integration into business knowledge workflows
 
 ## How to reach me
 Email me at dgunning@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/dwight-gunning/)

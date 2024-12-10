@@ -6,6 +6,7 @@
 * I am working on boosting those skills 10x using programming AI tools ... generally I like Claude Sonnet
 * I tackle really hard programming problems using the boosted skills - edgartools renders HTML inside a terminal
 * Oh  .. I am the maintainer of [edgartools](https://github.com/dgunning/edgartools) - easiest most powerful way to navigate SEC filings
+* I share my thoughts at [edgartools.io](https://www.edgartools.io)
 
 ## What I'm up to
 I'm building the next phase of [edgartools](https://github.com/dgunning/edgartools) - integration into business knowledge workflows

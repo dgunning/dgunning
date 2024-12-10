@@ -1,14 +1,15 @@
 ### Hi there 👋
 
 ## About Me
-* I am a data scientist and Python Data Engineer
+* I am a python data and AI Engineer
 * I work at FINRA - Computerworld's No. 1 midsize company on its 2020 Best Places to Work
-* I do a lot of pandas. A lot
+* I am the maintainer of edgartools - easiest most powerful way to navigate SEC filings
 
 ## What I'm up to
+I'm building the next phase of edgartools - integration into business knowledge workflows
 
 ## How to reach me
-Email me at dgunning@gmail.com or find me on LinkedIn
+Email me at dgunning@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/dwight-gunning/)
 
 <!--
 **dgunning/dgunning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
